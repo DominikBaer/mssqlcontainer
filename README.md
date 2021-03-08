@@ -5,7 +5,7 @@ the main source of information from mssql on unix / docker can be found at https
 
 A very good source for further information can be found here: https://github.com/johwes/sqlworkshops-sqlonopenshift
 
-1. Installation of sqlserver using containerstation of [QNAP NAS](QNAP/qnap.md) 
+1. Installation of sqlserver using containerstation of [QNAP NAS](Qnap/qnap.md) 
 2. Installation on IBM Cloud on an OCP Cluster classic
 [OCP@IBMCloud](IBMcloud/ibmcloud.md)
 ....
