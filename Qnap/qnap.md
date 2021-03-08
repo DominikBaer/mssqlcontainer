@@ -11,4 +11,4 @@ and copy paste the id of your container: (e.g.)
 
 `sudo docker exec -it a64f6540fef6 /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P Passw0rd!``
 
-Further connectivity is discussed in a separate chapter: (see ...)
+Further connectivity will be discussed in separate chapters later: 
